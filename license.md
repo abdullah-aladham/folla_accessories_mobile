@@ -1,6 +1,6 @@
 Repository Name: Folla_Accessories_mobile
 
-Copyright © 2025 Abdullah Azzam Aladham
+Copyright © 2025 Folla Accessories, Abdullah Azzam Aladham
 
 All Rights Reserved
 
@@ -16,4 +16,4 @@ All Rights Reserved
 
 6.Limitation of Liability: In no event shall the author(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with this repository or the use or other dealings in this repository.
 
-This license shall be governed by and construed in accordance with the laws of Judicial authorities , without regard to its conflicts of law provisions.
+This license shall be governed by and construed in accordance with the laws of Judicial authorities in palestine , without regard to its conflicts of law provisions.
