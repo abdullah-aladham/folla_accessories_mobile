@@ -98,8 +98,8 @@ flutter:
   fonts:
     - family: Montserrat
       fonts:
-        - asset: custom_fonts/fonts/Montserrat/static/Montserrat-Regular.ttf
-        - asset: custom_fonts/fonts/Montserrat/static/Montserrat-Italic.ttf
+        - asset: assets/fonts/Montserrat/static/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat/static/Montserrat-Italic.ttf
           style: italic
     # - family: RobotoMono
     #   fonts:
